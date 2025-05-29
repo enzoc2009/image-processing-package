@@ -2,8 +2,16 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	Processing:
+	- Histrogram matching
+	- Structural similarity
+	- Resize Image
+	Utils:
+	- Read Image
+	- Save Image
+	- Plot Image
+	- Plot Result
+	- Plot Histogram
 
 ## Installation
 
@@ -18,10 +26,10 @@ pip install package_name
 ```python
 from package_name.module1_name import file1_name
 file1_name.my_function()
-```
+
 
 ## Author
-My_name
+Enzo Mendonça Carulla
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
